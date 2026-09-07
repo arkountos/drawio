@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="xF_BbIw3AH5W4OuBM_nV">
+    <mxGraphModel dx="693" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5sWsM35lSqeJWF-7fmsI-7" connectable="0" parent="1" style="group" value="g" vertex="1">
+          <mxGeometry height="100" width="450" x="210" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="5sWsM35lSqeJWF-7fmsI-1" parent="5sWsM35lSqeJWF-7fmsI-7" style="rounded=0;whiteSpace=wrap;html=1;" value="UPR Chain" vertex="1">
+          <mxGeometry height="100" width="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5sWsM35lSqeJWF-7fmsI-2" parent="5sWsM35lSqeJWF-7fmsI-7" style="rounded=0;whiteSpace=wrap;html=1;" value="UPR Index" vertex="1">
+          <mxGeometry height="100" width="90" x="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5sWsM35lSqeJWF-7fmsI-3" parent="5sWsM35lSqeJWF-7fmsI-7" style="rounded=0;whiteSpace=wrap;html=1;" value="UPR Token" vertex="1">
+          <mxGeometry height="100" width="90" x="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5sWsM35lSqeJWF-7fmsI-4" parent="5sWsM35lSqeJWF-7fmsI-7" style="rounded=0;whiteSpace=wrap;html=1;" value="UPR Magic" vertex="1">
+          <mxGeometry height="100" width="90" x="270" as="geometry" />
+        </mxCell>
+        <mxCell id="5sWsM35lSqeJWF-7fmsI-5" parent="5sWsM35lSqeJWF-7fmsI-7" style="rounded=0;whiteSpace=wrap;html=1;" value="Authoritative EP bounds copy (EP_min, EP_max, Stage_min, Stage_max)&amp;nbsp;" vertex="1">
+          <mxGeometry height="100" width="90" x="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
